@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head><title>URLオフロードテスト</title></head>
-<body>
-  <h1>このページはIXルータのURLオフロード対象です</h1>
-  <p>検証中です...</p>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>検証用ページ</title>
+  </head>
+  <body>
+    <h1>こんにちは、世界！</h1>
+    <p>これはGitHub Pages上の検証用Webページです。</p>
+  </body>
 </html>
